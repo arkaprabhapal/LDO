@@ -3,6 +3,8 @@
 ## Circuit Diagram :
 <img width="1282" height="587" alt="Screenshot 2025-10-01 230553" src="https://github.com/user-attachments/assets/5cffbdaa-d732-4bec-8a3b-ddb0b81b17eb" />
 
+## Objective :  Vref = 0.8 V, Output Voltage = 1.0 V
+
 ## Output Voltage variation with load current :
 <img width="1575" height="591" alt="Screenshot 2025-10-01 230531" src="https://github.com/user-attachments/assets/2d350a02-1889-42c5-a21e-3a087ce2c949" />
 
